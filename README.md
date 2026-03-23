@@ -1,53 +1,82 @@
-# 👋 Hi, I'm a Full-Stack Developer
+# 👋 Hi, I'm Leofold Katuna
 
-I’m a passionate full-stack developer focused on building scalable, real-world applications using Python, Django, and modern JavaScript frameworks like React.js and React Native.
+I'm a full-stack developer focused on building scalable, production-ready systems that solve real-world problems. I specialize in backend-heavy architectures with strong frontend integrations, and I enjoy working on complex platforms that require thoughtful system design.
 
 ---
 
 ## 🚀 What I Do
-- Build robust backend systems with Django
-- Develop responsive, dynamic frontends with React.js
-- Create cross-platform mobile apps using React Native
-- Design systems that scale — from MVPs to production-ready platforms
+- Build full-stack applications using Django, React, and React Native
+- Design systems for scalability, performance, and real-world usage
+- Develop API-driven architectures for web and mobile apps
+- Work with cloud and containerized environments (AWS & Docker)
 
 ---
 
-## 💼 Projects
+## 🧠 Projects
 
-### 💘 Dating Platform
-A full-featured dating application built with Django and React.js, focused on user matching, real-time interactions, and a smooth user experience.
+### ❤️ Dating Platform (Django)
+- Swipe-based matching system
+- Real-time chat between matched users
+- Location-based matching logic
+- Notification system (likes, matches, messages)
+- Dynamic profile galleries with media rotation
 
-### 📊 Accounting Software
-Developed a comprehensive accounting system to manage financial records, transactions, and reporting — designed for efficiency and real-world business use.
+👉 Focus: real-time UX, matching logic, user engagement systems
 
-### 🛒 Multi-Vendor E-Commerce Platform (Current Project)
-Currently building a large-scale multi-vendor marketplace using:
-- Python (Django) for the backend
-- React Native for the mobile experience
+---
 
-This platform is designed to handle multiple vendors, secure transactions, and scalable product management — a complex system aimed at real-world deployment.
+### 💰 Accounting Software (Django + React.js)
+- Financial record management system
+- Dashboard-driven UI with clean data visualization
+- REST API architecture connecting frontend and backend
+- Structured and scalable business logic
+
+👉 Focus: data integrity, system structure, business workflows
+
+---
+
+### 🛒 Multivendor E-commerce Platform (In Progress)
+- Vendor onboarding and management system
+- Product catalog, orders, and transaction handling
+- Mobile-first frontend using React Native
+- Django-powered backend APIs
+- Designed for scalability and high traffic
+
+👉 Focus: large-scale architecture, commerce systems, mobile experience
 
 ---
 
 ## 🛠️ Tech Stack
-- Backend: Python, Django  
-- Frontend: React.js  
-- Mobile: React Native  
-- Cloud & DevOps: AWS, Docker  
-- Systems: Linux  
-- Other: REST APIs, Git, Database Design  
+
+Backend
+- Python (Django, Django REST Framework)
+
+Frontend
+- React.js
+- React Native
+- Tailwind CSS
+
+DevOps & Cloud
+- AWS (learning & building toward certification)
+- Docker (containerization & deployment)
+
+Other
+- REST APIs
+- Linux (server management)
+- Networking fundamentals
 
 ---
 
-## 🎯 Current Focus
-- Scaling a multi-vendor architecture
-- Improving system performance and reliability
-- Leveraging cloud infrastructure and containerization
+## 🎯 Goals
+- Become a certified AWS Cloud Engineer
+- Build globally scalable platforms
+- Secure a full-time international software engineering role
 
 ---
 
-## 📫 Let's Connect
-I'm always open to collaborating on interesting projects or discussing new ideas.
+## 📫 Let’s Connect
+Open to collaborations, freelance work, and full-time opportunities.
 
 ---
 
+> "I don’t just build apps — I build systems that scale.
